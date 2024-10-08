@@ -9,10 +9,9 @@
     .slogan-footer{
         display: none;
     }
-
 }
 .footer {
-    background-color: var(--secondBackground);
+    background-color: #6c6969;
     width: 100vw;
     display: grid;
     align-items: center;
